@@ -1,3 +1,3 @@
 Сайт - анонс фильма "Звездные войны"
-С применением flexbbox, плагинов jQuery
+С применением flexbox, плагинов jQuery
 https://annasirenko.github.io/star-wars/
